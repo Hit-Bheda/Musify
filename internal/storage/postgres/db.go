@@ -1,3 +1,4 @@
+// Package postgres contains all postgres realted utilities
 package postgres
 
 import (
